@@ -1,0 +1,7 @@
+if user_num == x:
+    print(f"Ти вгадав число, молодець!\nКільскість спроб: {attempt}\nДякую за гру!")
+    break
+elif user_num > x:
+    print("Моє число менше")
+elif user_num < x:
+    print("Моє число більше")
